@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         91porn 解锁VIP观看高清下载搜索等限制,去除广告.正则版通杀所有 for openuserjs
 // @description  https://github.com/91p2022/91 解锁91pornVIP观看下载搜索限制,去除广告,付费视频等,警告:本脚本无任何盈利方式,触犯某收费且含有监控追踪代码脚本,疯狂举报且用且珍惜,请保护好个人财产和隐私.
-// @copyright    @chunv_bot
+// @copyright    https://t.me/svipporn
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=91porn.com
-// @version      0.4
-// @author       @chunv_bot
+// @version      0.5
+// @author       https://t.me/svipporn
 // @license      AGPL-3.0-only
-// @homepageURL  https://t.me/chunvvip
+// @homepageURL  https://t.me/svipporn
 // @match        *.91porn.com/*
 // @match        *://*/view_video.php*
 // @match        *://*/index.php*
