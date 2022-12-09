@@ -11,8 +11,22 @@
 https://t.me/svipporn
 
 
+# Telegram 解析VIP机器人
 
-# 安装教程 油猴插件
+原理:注入Vip账号cookie,实现大家共享
+
+https://t.me/chu91_bot
+
+### 预览图
+
+![](https://dd-static.jd.com/ddimg/jfs/t1/116275/21/26636/117659/625ced50E7521f198/0b09220d167b59d2.png)
+
+
+
+
+# 油猴插件版 安装教程 
+
+在已经安装油猴的前提下
 
 ## 电脑版
 
@@ -63,6 +77,17 @@ PC电脑
 
 
 
+# 不定时 vip账号 分享
+
+```
+
+账号:tybjy2004
+
+密码:sEfuYXAbmF7o8
+
+
+
+```
 
 
 
