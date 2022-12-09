@@ -15,6 +15,11 @@
 https://t.me/svipporn
 
 
+防迷路导航群:https://t.me/svipnav
+
+
+
+
 ## 方案1.Telegram 解析VIP机器人
 
 原理:注入Vip账号cookie,实现大家共享
