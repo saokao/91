@@ -12,8 +12,6 @@
 
 # 新建个了自用91精选|每日更新
 
-https://t.me/svipporn
-
 
 防迷路导航群:https://t.me/svipnav
 
@@ -26,9 +24,12 @@ https://t.me/svipporn
 
 https://t.me/chu91_bot
 
+使用教程:
+https://t.me/svipnav/4
+
 ### 预览图
 
-![](https://dd-static.jd.com/ddimg/jfs/t1/116275/21/26636/117659/625ced50E7521f198/0b09220d167b59d2.png)
+![](https://jd.com/ddimg/jfs/t1/116275/21/26636/117659/625ced50E7521f198/0b09220d167b59d2.png)
 
 
 
