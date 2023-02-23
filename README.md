@@ -10,7 +10,7 @@
 由于油猴脚本发布于一年前,现在新方案推荐使用解析机器人,(原理:注入Vip账号cookie,实现大家共享)
 
 
-# 新建个了自用91精选|每日更新
+# 新建个了自用91精选|每日自动更新
 
 
 防迷路导航群:https://t.me/svipnav
@@ -27,9 +27,9 @@ https://t.me/svipnav/4
 
 ### 预览图
 
-![](https://jd.com/ddimg/jfs/t1/116275/21/26636/117659/625ced50E7521f198/0b09220d167b59d2.png)
+![image](https://user-images.githubusercontent.com/104338953/220874558-04fdfe5e-6ec1-472c-a786-e1d3f0b9b04b.png)
 
-
+示例视频 5分钟时长 212.9MB
 
 
 ## 方案2.油猴插件版 安装教程 
