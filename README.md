@@ -13,17 +13,18 @@
 # 新建个了自用91精选|每日自动更新
 
 
-防迷路导航群:https://t.me/svipnav
+~~防迷路导航群:https://t.me/svipnav~~
 
+上面群创建者账号被封,竟然连累所有群被封,申诉提交了,不知道能不能解,创建新的备用了
 
+防迷路备用导航群:https://t.me/vipnav
 
 
 ## 方案1.Telegram 解析VIP机器人
 
 原理:注入Vip账号cookie,实现大家共享
 
-使用教程:
-https://t.me/svipnav/4
+使用教程:在上面导航群
 
 ### 预览图
 
