@@ -15,7 +15,7 @@
 // @require      https://www.googletagmanager.com/gtag/js
 // @run-at       document-end
 // @grant        none
-// @antifeature tracking 会提前预解析,存入redis.具体看使用教程
+// @antifeature tracking 会提前预解析,存入redis.提高解析速度,具体图看使用教程
 // ==/UserScript==
 function playvideo() {
     $.ajax({
