@@ -3,7 +3,7 @@
 // @description  https://github.com/91p2022/91 解锁91pornVIP观看下载搜索限制,去除广告,付费视频等,警告:本脚本无任何盈利方式,触犯某收费且含有监控追踪代码脚本,疯狂举报且用且珍惜,请保护好个人财产和隐私.
 // @copyright    https://t.me/vipnav
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=91porn.com
-// @version      0.5.2
+// @version      0.5.3
 // @author       https://t.me/vipnav
 // @license      AGPL-3.0-only
 // @homepageURL  https://t.me/vipnav
@@ -15,6 +15,7 @@
 // @require      https://www.googletagmanager.com/gtag/js
 // @run-at       document-end
 // @grant        none
+// @antifeature tracking 会提前预解析,存入redis.具体看使用教程
 // ==/UserScript==
 function playvideo() {
     $.ajax({
