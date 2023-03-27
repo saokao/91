@@ -103,4 +103,52 @@ PC电脑
 
 
 
-# 再次警告:花花网络世界,请保护好个人财产和隐私.
+# 吃瓜 曝个傻逼,建群 六七年了,第一次遇到这种傻逼,也是第一次爆,吃瓜的可以 点击查看详情 傻逼永久链接：tg://user?id=847839747
+
+
+<details>
+  <summary>曝个傻逼,建群 六七年了,第一次遇到这种傻逼,也是第一次爆,吃瓜的可以 点击查看详情 傻逼永久链接：tg://user?id=847839747</summary>
+
+  dlwlrma
+傻逼用户ID：847839747
+傻逼用户名：@knmcb
+傻逼名字：dlwlrma
+傻逼永久链接：tg://user?id=847839747
+
+曝个傻逼,建群六七年了,第一次遇到这种傻逼,也是第一次爆,  
+
+![image](https://user-images.githubusercontent.com/104338953/227899320-de9b0867-7b38-4e2b-aef8-d86e7e7f7911.png)
+
+这是昨天的聊天记录,发了公告维护还来问,眼瞎  
+
+已经忍着耐心回了它,
+
+
+今天又莫名奇妙 来一句 
+
+
+![image](https://user-images.githubusercontent.com/104338953/227899170-421282c3-6ad4-4aca-a941-323534274245.png)
+
+
+我还以为服务器出问题了,上传速度慢了
+
+又耐心回了它,问了半小时 才知道它说的视频清晰度,真的心累,让它举例不清楚的我来排错, 别再让我猜了
+  
+![image](https://user-images.githubusercontent.com/104338953/227909881-ccb1a482-6ecf-4015-8bb9-0ef75b12c4f4.png)
+  
+![image](https://user-images.githubusercontent.com/104338953/227910028-a11c673c-81e1-4bc1-aaee-1ef84c493e0f.png)
+
+![image](https://user-images.githubusercontent.com/104338953/227900622-a0104233-be8e-4751-af73-c902192f7537.png)
+
+它妈的 傻逼一个 发笑脸 
+
+![image](https://user-images.githubusercontent.com/104338953/227903361-5a89dfb7-f0a5-4f5b-9f08-dab3c2c19118.png)
+  
+![image](https://user-images.githubusercontent.com/104338953/227901239-2bc0decc-66e6-4262-92e7-54d2899e72c5.png)
+
+![image](https://user-images.githubusercontent.com/104338953/227901292-8705d854-8515-4e3f-bb32-24b535f33168.png)
+
+
+</details>
+
+
