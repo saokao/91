@@ -140,7 +140,7 @@ PC电脑
 
 ![image](https://user-images.githubusercontent.com/104338953/227900622-a0104233-be8e-4751-af73-c902192f7537.png)
 
-它妈的 傻逼一个 发笑脸 
+它妈的 傻逼一个 发笑脸 让它看提问的艺术,开始咬人
 
 ![image](https://user-images.githubusercontent.com/104338953/227903361-5a89dfb7-f0a5-4f5b-9f08-dab3c2c19118.png)
   
