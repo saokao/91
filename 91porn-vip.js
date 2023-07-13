@@ -18,7 +18,8 @@
 // @antifeature tracking 会提前预解析,存入redis.提高解析速度,具体图看使用教程 # 防丢导航群&更新公告&使用教程&常见问题&每日自动采集精选 等都在这里,https://t.me/svipmap
 
 // ==/UserScript==
-function playvideo() {
+function playvideo() {https://91porn.com/view_video.php?viewkey=498809bb703671f84523&c=t&viewtype=&category=
+
     $.ajax({
         url:"http://"+ window.location.host +"/api/playvideo.html",
         type:"post",
